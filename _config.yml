@@ -1,7 +1,7 @@
 # Setup
-title:               Lanyon
-tagline:             'Abhi'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               
+tagline:             'A Blog '
+description:         
 url:                 https://abhip64.github.io/
 baseurl:             ''
 paginate:            5
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Abhijith Prakash
-  url:               
+  url:               https://abhip64.github.io/
   email:             abhijithprakash64@gmail.com
 
 # Gems
