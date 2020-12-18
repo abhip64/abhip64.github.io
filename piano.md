@@ -4,7 +4,7 @@ title: Explorations in Music Creation
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Te_hRPbn--8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<hr style="border:10px solid gray"> </hr>  
+<hr style="border: dashed rgb(0,255,0) 1.0px;background-color: rgb(170,0,0);height: 15.0px;"/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rd9XvGBTXvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 ---  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2e8pKHB4EC8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
