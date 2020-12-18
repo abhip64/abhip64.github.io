@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Posts
+title: Explorations in Music Creation
 ---
 
