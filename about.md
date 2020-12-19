@@ -11,4 +11,4 @@ For any queries or discussion you can contact me at my email id.
 **Email** : *abhijithprakash64@gmail.com*  
 You can also check out my project codes at my Github Repo.  
 **Github Account** : *[https://github.com/abhip64](https://github.com/abhip64)*  
-My project videos can also be found in my Youtube channel.
+My project videos can also be found in my Youtube channel(link will be update soon).
