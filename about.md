@@ -4,7 +4,7 @@ title: About
 ---
 
 Hey there! I am Abhijith. I am an aspiring Aerospace Engineer with great keenness to develop robotic systems. I have varied interests and I often find myself putting hands in a multitude of topics such as theoretical physics, psychology, robotics, digital music design etc.  
- I started this blog with the main purpose of serving as a central node for assimilating my thoughts and ideas on the topics that I find interesting. I do have a strong belief that the key to satisfaction of learning would be when we critically analyse and question what we learn, along with documenting our actions and thought processes. I am starting this journey for personal satisfaction and would be more than happy if it would be of use to someone else. 
+ I started this blog with the main purpose of serving as a central node for assimilating my thoughts and ideas on the topics that I find interesting. I do have a strong belief that the key to satisfaction of learning would be when we critically analyse and question what we learn, along with documenting our actions and thought processes. So you can say that the major objective of this blog would be to convert the endless amount of data that we are bombarded with everyday into information. This is more of a journey for personal satisfaction but I would be more than happy if it would be of use to someone else. 
 
 # Contact
 For any queries or discussion you can contact me at my email id.  
